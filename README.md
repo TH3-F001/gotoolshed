@@ -13,9 +13,7 @@ More packages will be added as they are developed!
 ## Package Details
 
 ### 🥞 Stack Package
-The stack package is a thread-safe implementation of a generic stack. You can use it to push, pop, and peek at elements, ensuring concurrency safety.
-
-The stack package is a thread-safe implementation of a generic stack. You can use it to push, pop, and peek at elements, ensuring concurrency safety.
+The stack package is a thread-safe implementation of a generic stack. You can use it to push, pop, and peek at elements, in a thread safe way.
 
 ### Example
 
