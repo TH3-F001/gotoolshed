@@ -26,6 +26,8 @@ import (
     "fmt"
     "github.com/yourusername/gotoolshed/stack"
 )
+
+var stk *stack.Stack[uint16] = stack.New[uint16](16)
 func printSquare(x int) {
   fmt.Println(x * x)
 }
